@@ -483,7 +483,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="临床评分曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="461.42" width="40.21999999999999" height="45.30999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-228" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-228" value="生存曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="864.73" y="461.42" width="40.21999999999999" height="45.30999999999999" as="geometry" />
         </mxCell>
       </root>
