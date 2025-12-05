@@ -371,6 +371,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-154" value="0/1/3/5/7/10/14/21 dpi&lt;span style=&quot;background-color: initial;&quot;&gt;采集外周血样，每日记录体重、体温、临床评分，0/7/21 dpi处死&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="778.27" y="280" width="173.44" height="50" as="geometry" />
         </mxCell>
@@ -424,6 +427,11 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="外周血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="782.3299999999999" y="364" width="77.2" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-170">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="908.7241379310346" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870.4599999999999" y="364" width="77.2" height="16" as="geometry" />
