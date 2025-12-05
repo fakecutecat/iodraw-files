@@ -7,9 +7,6 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-4" value="确定S-CPP安全应用浓度与剂量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295.5" y="40.00000000000001" width="243" height="22.04" as="geometry" />
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="220" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="67wakWPoND7Ayu36G2Oa-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -127,12 +124,6 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-33" value="预处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="270" width="46.68" height="18.03" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="124.16" y="234.76" as="sourcePoint" />
-            <mxPoint x="164.16" y="235.03" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="172" y="90" width="490" height="40" as="geometry" />
@@ -263,6 +254,15 @@
               <mxPoint x="252.9" y="309.98" />
               <mxPoint x="330" y="310" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="88.59366891541255" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131.94412039439544" y="239.84" as="sourcePoint" />
+            <mxPoint x="164.16" y="240.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
