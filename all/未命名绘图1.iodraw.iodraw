@@ -429,14 +429,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="子代TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-296" vertex="1">
-          <mxGeometry x="227.25518257759904" y="6.858532467532484" width="92.47674126225797" height="14.025974025974023" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-297" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-296">
+          <mxGeometry x="10.28" width="309.45" height="20.89" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-94" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-296">
-          <mxGeometry x="10.278888888888787" y="4.896231095954477" width="92.50103957268391" height="15.635864341974345" as="geometry" />
+        <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="子代TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-297" vertex="1">
+          <mxGeometry x="216.97416570049157" y="2.5653376508897465" width="92.47583429950843" height="18.322711319664286" as="geometry" />
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-73" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-296" vertex="1">
-          <mxGeometry x="114.10064155812177" y="4.894775104798896" width="92.47778057354567" height="15.991224895201034" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-94" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-297">
+          <mxGeometry y="0.0019020216049371339" width="92.50013237162945" height="20.42577777777778" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-73" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-297" vertex="1">
+          <mxGeometry x="103.82073444063866" width="92.47687360060311" height="20.889999999999997" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
