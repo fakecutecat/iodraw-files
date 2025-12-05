@@ -259,11 +259,8 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="230" width="88.59366891541255" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="131.94412039439544" y="239.84" as="sourcePoint" />
-            <mxPoint x="164.16" y="240.02" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
