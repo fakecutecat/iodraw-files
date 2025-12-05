@@ -431,27 +431,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="368" width="77.2" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1028.1464590049666" y="428" width="45.22354099503355" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="863.83" y="428" width="155.1877668380239" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry width="70.47350352879674" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry x="82.15822950248324" width="73.02953733554065" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-197" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="760" y="480" width="155.1877668380239" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-198" value="血常规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-197">
-          <mxGeometry width="70.47350352879674" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-199" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-197">
-          <mxGeometry x="82.15822950248324" width="73.02953733554065" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-200" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="730" y="400" width="80" height="90" as="geometry" />
         </mxCell>
@@ -460,6 +439,21 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-202" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-200">
           <mxGeometry x="42.35294117647059" width="37.6470588235294" height="89.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-203" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="863.83" y="428" width="209.54000000000008" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-203">
+          <mxGeometry x="164.31645900496653" width="45.22354099503355" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-203">
+          <mxGeometry width="155.1877668380239" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
+          <mxGeometry width="70.47350352879674" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
+          <mxGeometry x="82.15822950248324" width="73.02953733554065" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
