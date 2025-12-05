@@ -444,19 +444,19 @@
           <mxGeometry x="714" y="404" width="48.93" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-195" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="400" width="229.53999999999996" height="16" as="geometry" />
+          <mxGeometry x="840" y="400" width="229.54" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-195">
-          <mxGeometry x="180" width="49.54" height="16" as="geometry" />
+          <mxGeometry x="180.00000000000003" width="49.54000000000001" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-195">
-          <mxGeometry width="170" height="16" as="geometry" />
+          <mxGeometry width="170.00000000000003" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry width="77.2" height="16" as="geometry" />
+          <mxGeometry width="77.20000000000002" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry x="90" width="80" height="16" as="geometry" />
+          <mxGeometry x="90.00000000000001" width="80.00000000000001" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
