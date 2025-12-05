@@ -358,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-136" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="472" y="120" width="588" height="40" as="geometry" />
+          <mxGeometry x="430" y="120" width="588" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-2" value="空白对照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-136">
           <mxGeometry x="15" y="10" width="79.9" height="18.03" as="geometry" />
