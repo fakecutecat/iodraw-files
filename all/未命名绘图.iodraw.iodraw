@@ -455,20 +455,17 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-202" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-200">
           <mxGeometry x="42.35294117647059" width="37.6470588235294" height="109.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-203" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="890" y="424.69" width="130" height="110" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="999.7847869652348" y="424.69" width="30.21521303476518" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-203">
-          <mxGeometry x="101.94301646771802" width="28.056983532281954" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-203">
-          <mxGeometry width="96.2795155528448" height="110" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="424.69" width="93.69" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry width="43.72222706282128" height="110" as="geometry" />
+          <mxGeometry width="42.546282352941176" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry x="50.971508233859005" width="45.30800731898579" height="110" as="geometry" />
+          <mxGeometry x="49.60058823529411" width="44.08941176470588" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
