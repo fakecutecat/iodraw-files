@@ -260,10 +260,10 @@
           <mxGeometry x="312.62042016806726" y="247.69944341372909" width="57.47899159663866" height="18.033395176252313" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-2" value="空白对照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220.0015966386555" y="69.9994434137291" width="57.47899159663866" height="18.033395176252313" as="geometry" />
+          <mxGeometry x="200" y="70" width="77.48" height="18.03" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-3" value="PRRSV感染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292.52" y="70" width="87.48" height="18.03" as="geometry" />
+          <mxGeometry x="200" y="90" width="80" height="18.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
