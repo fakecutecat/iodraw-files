@@ -273,9 +273,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="空白对照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225.05" y="150" width="79.9" height="18.03" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="U3-DiGzachXiAywoB_Pa-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="130" as="sourcePoint" />
+            <mxPoint x="420" y="130" as="sourcePoint" />
             <mxPoint x="430" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
