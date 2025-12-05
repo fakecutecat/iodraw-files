@@ -15,29 +15,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-53" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="490" y="989.9951020408163" width="300" height="29.387755102040842" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-120" value="" style="endArrow=classic;html=1;rounded=0;" parent="U3-DiGzachXiAywoB_Pa-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint x="140" y="29.387755102040842" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="14.693877551020364" />
-              <mxPoint x="140" y="14.693877551020364" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-121" value="" style="endArrow=classic;html=1;rounded=0;" parent="U3-DiGzachXiAywoB_Pa-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" as="sourcePoint" />
-            <mxPoint x="140" y="29.387755102040842" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="14.693877551020364" />
-              <mxPoint x="140" y="14.693877551020364" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840.819512195122" y="120" as="targetPoint" />
