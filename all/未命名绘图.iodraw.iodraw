@@ -452,8 +452,8 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-180" value="血常规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="733.9" y="400" width="48.93" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="969.9999999999999" y="401.02" width="49.53" height="16" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="969.9999999999999" y="400" width="49.53" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
