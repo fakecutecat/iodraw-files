@@ -435,7 +435,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-158" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1112.7126824793772" y="294.300551948052" as="sourcePoint" />
-            <mxPoint x="1089.41" y="294.300551948052" as="targetPoint" />
+            <mxPoint x="1000" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="拌料给药14天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
