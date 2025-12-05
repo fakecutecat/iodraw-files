@@ -334,10 +334,10 @@
           <mxGeometry x="520" y="492.03979591836736" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-100" value="&lt;div&gt;annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V-FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334.15999999999997" y="710" width="102" height="14.69" as="geometry" />
+          <mxGeometry x="421" y="640" width="102" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-102" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="615.16" width="84.95" height="14.69" as="geometry" />
+          <mxGeometry x="530" y="615.16" width="100" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-103" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="409" y="484.69" width="210" height="35.31" as="geometry" />
@@ -385,7 +385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-82" value="&lt;div&gt;Co-IP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="419" y="615.1561224489795" width="100" height="14.693877551020405" as="geometry" />
+          <mxGeometry x="421" y="615.1561224489795" width="100" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-78" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="584.9961224489796" width="100" height="14.693877551020405" as="geometry" />
