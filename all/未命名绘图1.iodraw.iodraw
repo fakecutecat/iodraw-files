@@ -35,11 +35,6 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-4" value="确定S-CPP安全应用浓度与剂量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="708.59866962306" y="80" width="280.60842572062086" height="22.04" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-115">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-2" value="空白对照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="526.7228381374723" y="130" width="92.2658980044346" height="18.03" as="geometry" />
         </mxCell>
@@ -336,8 +331,8 @@
             <mxPoint x="439.9090909090909" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="380" />
-              <mxPoint x="440" y="520" />
-              <mxPoint x="1260" y="500" />
+              <mxPoint x="440" y="510" />
+              <mxPoint x="1260" y="520" />
               <mxPoint x="1260" y="179.33333333333331" />
             </Array>
           </mxGeometry>
