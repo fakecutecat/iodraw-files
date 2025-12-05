@@ -397,7 +397,7 @@
           <mxGeometry x="530" y="690" width="110" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲除关键基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="585" width="132.5" height="22.04" as="geometry" />
+          <mxGeometry x="498.75" y="585" width="132.5" height="22.04" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
