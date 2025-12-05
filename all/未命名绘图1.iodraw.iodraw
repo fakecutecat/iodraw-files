@@ -137,7 +137,7 @@
           <mxGeometry x="908.6410512559896" y="302.4516666666667" width="180.7684507042254" height="63.46666666666666" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="拌料给药14天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1022.8577464788734" y="272.66666666666663" width="83.38028169014086" height="18.666666666666664" as="geometry" />
+          <mxGeometry x="1016.2277464788734" y="263.33666666666664" width="83.38028169014086" height="18.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="外周血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855.3154929577465" y="398.4146666666667" width="80.46197183098592" height="14.933333333333334" as="geometry" />
@@ -419,22 +419,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-303" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="952.7777777777778" y="451.32533333333333" width="226.1111111111111" height="42.28933333333333" as="geometry" />
+          <mxGeometry x="952.78" y="451.33" width="226.11" height="48.67" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-303">
-          <mxGeometry x="195.53472222222217" width="30.57638888888889" height="42.28933333333334" as="geometry" />
+          <mxGeometry x="195.53376136363633" width="30.57623863636364" height="48.670000000000016" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-303">
-          <mxGeometry x="92.5" width="42.86861111111112" height="42.28933333333334" as="geometry" />
+          <mxGeometry x="92.49954545454547" width="42.86840045454547" height="48.670000000000016" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-303">
-          <mxGeometry x="139.69555555555598" width="45.30444444444446" height="42.28933333333334" as="geometry" />
+          <mxGeometry x="139.69486909090955" width="45.30422181818184" height="48.670000000000016" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="临床评分曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-303">
-          <mxGeometry width="41.337222222222216" height="42.289333333333325" as="geometry" />
+          <mxGeometry width="41.33701909090909" height="48.669999999999995" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-228" value="生存曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-303">
-          <mxGeometry x="45.97249999999997" width="41.337222222222216" height="42.289333333333325" as="geometry" />
+          <mxGeometry x="45.97227409090907" width="41.33701909090909" height="48.669999999999995" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
