@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="67wakWPoND7Ayu36G2Oa-4" value="确定Se-CPPs安全应用浓度与prrsv滴度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="67wakWPoND7Ayu36G2Oa-4" value="确定S-CPP安全应用浓度与prrsv滴度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295.5" y="40.00000000000001" width="243" height="22.04" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -269,7 +269,7 @@
           <mxGeometry x="377" y="70" width="80" height="18.03" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-5" value="S-CPP+PRRSV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="70" width="116" height="18.03" as="geometry" />
+          <mxGeometry x="377" y="100" width="116" height="18.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
