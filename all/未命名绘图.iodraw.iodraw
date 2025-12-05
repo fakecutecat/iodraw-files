@@ -432,7 +432,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="外周血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730.0999999999999" y="368" width="77.2" height="16" as="geometry" />
+          <mxGeometry x="730.0999999999999" y="404.73" width="77.2" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-170" target="U3-DiGzachXiAywoB_Pa-176">
           <mxGeometry relative="1" as="geometry" />
@@ -449,13 +449,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="368" width="77.2" height="16" as="geometry" />
+          <mxGeometry x="930" y="404.73" width="77.2" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-213" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784.99" y="534.69" width="175" height="22.04" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-214" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="727.3" y="424.69" width="312.7" height="45.31" as="geometry" />
+          <mxGeometry x="727.3" y="461.42" width="312.7" height="45.31" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-200" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-214">
           <mxGeometry width="79.99999999999999" height="45.30999999999999" as="geometry" />
