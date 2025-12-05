@@ -481,16 +481,16 @@
           <mxGeometry x="821.94" y="671.51" width="93" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-270" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="671.6681639118457" y="708.03" width="243.27183608815426" height="16.659999999999968" as="geometry" />
+          <mxGeometry x="640" y="708.03" width="278.33" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-131" value="DLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-270">
-          <mxGeometry y="0.004068606557325438" width="76.93809849521207" height="16.655931393442607" as="geometry" />
+          <mxGeometry y="0.004068606557325446" width="88.02572997563324" height="16.65593139344264" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-270">
-          <mxGeometry x="82.40183608815425" width="80" height="16.66" as="geometry" />
+          <mxGeometry x="94.27685262384861" width="91.52888537385536" height="16.660000000000032" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-268" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-270">
-          <mxGeometry x="169.37183608815428" width="73.9" height="16.66" as="geometry" />
+          <mxGeometry x="193.78019213590113" width="84.5498078640989" height="16.660000000000032" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
