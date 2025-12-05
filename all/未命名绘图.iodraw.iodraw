@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="663" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,11 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-254" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="370" y="160" width="710" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-254" source="67wakWPoND7Ayu36G2Oa-7" target="U3-DiGzachXiAywoB_Pa-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555.0010924369749" y="254.28523721176776" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降关键基因验证表型、机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-254">
           <mxGeometry x="228.75" y="413.48" width="211.25" height="22.04" as="geometry" />
@@ -461,11 +466,6 @@
               <mxPoint x="690" y="253" />
               <mxPoint x="690" y="424" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-254" source="67wakWPoND7Ayu36G2Oa-7" target="U3-DiGzachXiAywoB_Pa-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555.0010924369749" y="254.28523721176776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-254" source="U3-DiGzachXiAywoB_Pa-25" target="67wakWPoND7Ayu36G2Oa-7">
