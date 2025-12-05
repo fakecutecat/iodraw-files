@@ -296,10 +296,10 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-57" value="释放" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-58" vertex="1">
           <mxGeometry x="157.83704786262328" width="43.84362440628424" height="18.033395176252313" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0.652;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240.48" y="469.62" as="sourcePoint" />
-            <mxPoint x="240.48" y="407.62" as="targetPoint" />
+            <mxPoint x="240" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -315,6 +315,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="349.99999999999994" y="470.02" as="sourcePoint" />
             <mxPoint x="350" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.24" y="469.62" as="sourcePoint" />
+            <mxPoint x="298.76" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
