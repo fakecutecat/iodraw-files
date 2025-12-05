@@ -484,10 +484,10 @@
           <mxGeometry x="1156.0566755848138" y="640.0040686065573" width="63.94332441518627" height="16.655931393442557" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1087.203216091037" y="640" width="66.48807357168103" height="16.65999999999995" as="geometry" />
+          <mxGeometry x="1100.0032160910368" y="640" width="66.48807357168103" height="16.65999999999995" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-268" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1021.2702335564688" y="640" width="61.418357961840364" height="16.65999999999995" as="geometry" />
+          <mxGeometry x="1027.210233556469" y="640" width="61.418357961840364" height="16.65999999999995" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
