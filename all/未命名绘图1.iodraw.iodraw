@@ -85,10 +85,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="749.9999999999999" y="605.91" width="88.22" height="16.66" as="geometry" />
+          <mxGeometry x="550.2699999999999" y="605.91" width="88.22" height="16.66" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446.72" y="605.91" width="80" height="16.66" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="848.6" y="605.91" width="99.61" height="16.66" as="geometry" />
