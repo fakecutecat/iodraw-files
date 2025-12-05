@@ -440,6 +440,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-170" target="U3-DiGzachXiAywoB_Pa-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-170" target="U3-DiGzachXiAywoB_Pa-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="368" width="77.2" height="16" as="geometry" />
         </mxCell>
@@ -453,19 +456,19 @@
           <mxGeometry x="42.35294117647059" width="37.6470588235294" height="109.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-203" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="890" y="424.69" width="160" height="110" as="geometry" />
+          <mxGeometry x="890" y="424.69" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-203">
-          <mxGeometry x="125.46832796026834" width="34.53167203973163" height="110" as="geometry" />
+          <mxGeometry x="101.94301646771802" width="28.056983532281954" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-203">
-          <mxGeometry width="118.49786529580898" height="110" as="geometry" />
+          <mxGeometry width="96.2795155528448" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry width="53.81197176962619" height="110" as="geometry" />
+          <mxGeometry width="43.72222706282128" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
-          <mxGeometry x="62.734163980134156" width="55.76370131567481" height="110" as="geometry" />
+          <mxGeometry x="50.971508233859005" width="45.30800731898579" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
