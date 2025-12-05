@@ -463,10 +463,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669.3781639118458" y="640" width="78.18912448700412" height="16.660327868852438" as="geometry" />
+          <mxGeometry x="789.9981639118458" y="671.51" width="78.18912448700412" height="16.660327868852438" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-127" value="annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="639.9963333333334" y="674.01" width="123.11" height="16.66" as="geometry" />
+          <mxGeometry x="630.6563333333334" y="640" width="123.11" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="708.03" width="80" height="16.66" as="geometry" />
