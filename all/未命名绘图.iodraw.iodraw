@@ -94,7 +94,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="确定药物作用方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503.16342857142854" y="260" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="222.22" y="332" width="88.59366891541255" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
