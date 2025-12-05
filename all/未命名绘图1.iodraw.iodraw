@@ -149,13 +149,13 @@
           <mxGeometry x="957.9680555555556" y="207.33333333333334" width="82.11944444444445" height="16.828000000000003" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-200" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="857.5027777777777" y="451.32533333333333" width="74.71944444444445" height="42.28933333333334" as="geometry" />
+          <mxGeometry x="857.5" y="451.33" width="74.72" height="48.67" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-201" value="血&lt;div&gt;常&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-200">
-          <mxGeometry width="33.93141830065359" height="42.28933333333333" as="geometry" />
+          <mxGeometry width="33.931670588235285" height="48.669999999999995" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-202" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-200">
-          <mxGeometry x="39.55735294117646" width="35.16209150326795" height="42.28933333333333" as="geometry" />
+          <mxGeometry x="39.55764705882351" width="35.162352941176444" height="48.669999999999995" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1148.3125" y="451.32533333333333" width="30.57638888888889" height="42.28933333333334" as="geometry" />
@@ -430,7 +430,7 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-73" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="646.2399481598981" y="476.8321293488515" width="92.47722721167334" height="22.32055908421072" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.594;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-57" target="67wakWPoND7Ayu36G2Oa-74">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.655;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-57" target="67wakWPoND7Ayu36G2Oa-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
