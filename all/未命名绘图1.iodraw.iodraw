@@ -486,6 +486,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="882.9242993427623" y="640.0043964754099" width="65.67886456908347" height="16.655931393442607" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-268" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="807.16" y="708.03" width="70" height="16.66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
