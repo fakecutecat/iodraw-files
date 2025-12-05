@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降关键基因验证表型、机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598.75" y="573" width="211.25" height="22.04" as="geometry" />
+          <mxGeometry x="598.75" y="573.48" width="211.25" height="22.04" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-140" value="S-CPP调控PRRSV复制相关通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="630" width="88.59" height="50" as="geometry" />
