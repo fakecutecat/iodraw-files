@@ -31,21 +31,21 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334" y="211.63265306122446" as="targetPoint" />
-            <mxPoint x="414" y="189.59183673469389" as="sourcePoint" />
+            <mxPoint x="334" y="152.04265306122446" as="targetPoint" />
+            <mxPoint x="414" y="130.00183673469388" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="414" y="196.93877551020404" />
-              <mxPoint x="334" y="196.93877551020404" />
+              <mxPoint x="414" y="137.34877551020404" />
+              <mxPoint x="334" y="137.34877551020404" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="189.59183673469389" as="sourcePoint" />
-            <mxPoint x="494" y="211.63265306122446" as="targetPoint" />
+            <mxPoint x="414" y="130.00183673469388" as="sourcePoint" />
+            <mxPoint x="494" y="152.04265306122446" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="414" y="196.93877551020404" />
-              <mxPoint x="494" y="196.93877551020404" />
+              <mxPoint x="414" y="137.34877551020404" />
+              <mxPoint x="494" y="137.34877551020404" />
             </Array>
           </mxGeometry>
         </mxCell>
