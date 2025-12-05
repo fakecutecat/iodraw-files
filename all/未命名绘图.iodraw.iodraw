@@ -313,10 +313,10 @@
           <mxGeometry x="421.6" y="660" width="122.6" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627.1" y="660" width="84" height="14.69" as="geometry" />
+          <mxGeometry x="630" y="660" width="84" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-130" value="JC-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552.0999999999999" y="660" width="62.9" height="14.69" as="geometry" />
+          <mxGeometry x="556.0999999999999" y="660" width="62.9" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-131" value="DLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="690" width="70" height="14.69" as="geometry" />
