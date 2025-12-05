@@ -64,10 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="519" y="577.3497959183674" width="90" height="14.693877551020405" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-70" value="IFA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="219" y="577.3497959183674" width="90" height="14.693877551020405" as="geometry" />
+          <mxGeometry x="514.95" y="459.99979591836734" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-72" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="577.3497959183674" width="90" height="14.693877551020405" as="geometry" />
