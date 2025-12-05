@@ -123,9 +123,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-251" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-252">
           <mxGeometry x="159.00369696969696" y="10" width="228.62500000000003" height="84.69" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="-32.7481694214876" width="78.18912448700412" height="16.660327868852438" as="geometry" />
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-127" value="annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
           <mxGeometry x="-32.7481694214876" y="34.01923254098359" width="95.85986662106704" height="16.655931393442607" as="geometry" />
         </mxCell>
@@ -149,6 +146,9 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
           <mxGeometry x="130.1979660094289" y="0.0043964754098531076" width="65.67886456908347" height="16.655931393442607" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-252">
+          <mxGeometry x="46.27552754820938" y="10" width="78.18912448700412" height="16.660327868852438" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-262" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=3;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
