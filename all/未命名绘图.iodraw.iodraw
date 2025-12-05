@@ -449,6 +449,15 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
           <mxGeometry x="82.15822950248324" width="73.02953733554065" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-197" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="480" width="155.1877668380239" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-198" value="血常规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-197">
+          <mxGeometry width="70.47350352879674" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-199" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-197">
+          <mxGeometry x="82.15822950248324" width="73.02953733554065" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
