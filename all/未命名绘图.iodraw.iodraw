@@ -154,6 +154,9 @@
             <mxPoint x="265.0010924369749" y="219.99944341372907" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-7" target="U3-DiGzachXiAywoB_Pa-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="测定病毒TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202.90342857142855" y="180" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
@@ -177,7 +180,7 @@
           <mxGeometry x="303.32" y="270" width="46.68" height="18.03" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="确定药物作用方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202.90342857142855" y="210" width="124.19314285714286" height="20.000000000000004" as="geometry" />
+          <mxGeometry x="202.90342857142855" y="220" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-66" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="164.1560470588236" y="320.0037847866419" width="201.68067226890759" height="48.08905380333951" as="geometry" />
