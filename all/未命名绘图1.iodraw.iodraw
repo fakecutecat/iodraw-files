@@ -57,8 +57,8 @@
             <Array as="points">
               <mxPoint x="479.9990909090909" y="119.01" />
               <mxPoint x="885.8172727272728" y="119.01" />
-              <mxPoint x="1260.09" y="119.01" />
-              <mxPoint x="1260.09" y="159.01" />
+              <mxPoint x="1220" y="119" />
+              <mxPoint x="1220" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,7 +74,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-240" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="595.91" as="sourcePoint" />
-            <mxPoint x="440" y="595.91" as="targetPoint" />
+            <mxPoint x="480" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1092.5408181818182" y="595.91" />
               <mxPoint x="1260" y="595.91" />
