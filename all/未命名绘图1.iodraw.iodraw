@@ -145,7 +145,7 @@
           <mxGeometry x="1022.8577464788734" y="272.66666666666663" width="83.38028169014086" height="18.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550.0047887323943" y="309.99666666666667" width="291.830985915493" height="37.33333333333333" as="geometry" />
+          <mxGeometry x="544.7847887323944" y="309.99666666666667" width="291.830985915493" height="37.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -315,13 +315,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-62" value="IFA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="651.0222222222224" y="353.8666666666667" width="79.34444444444445" height="14.933333333333334" as="geometry" />
+          <mxGeometry x="658.4622222222224" y="321.19666666666666" width="79.34444444444445" height="14.933333333333334" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-63" value="子代TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="743.3680555555557" y="353.8666666666667" width="79.34444444444445" height="14.933333333333334" as="geometry" />
+          <mxGeometry x="750.8080555555557" y="321.19666666666666" width="79.34444444444445" height="14.933333333333334" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559.9611111111111" y="353.8666666666667" width="79.34444444444445" height="14.933333333333334" as="geometry" />
+          <mxGeometry x="567.4011111111112" y="321.19666666666666" width="79.34444444444445" height="14.933333333333334" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-253" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="625.98" y="263.33" width="129.44" height="30" as="geometry" />
