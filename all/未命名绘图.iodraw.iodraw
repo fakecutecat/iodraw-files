@@ -402,7 +402,7 @@
           <mxGeometry x="630" y="630" width="84" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="3周龄仔猪PRRSV滴鼻感染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810.0034285714286" y="210" width="124.19314285714286" height="20.000000000000004" as="geometry" />
+          <mxGeometry x="785" y="210" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
