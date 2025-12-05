@@ -459,7 +459,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="792.3999999999999" y="671.51" width="88.22" height="16.66" as="geometry" />
+          <mxGeometry x="819.7099999999998" y="640" width="88.22" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-127" value="annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675.1163333333334" y="640" width="123.11" height="16.66" as="geometry" />
@@ -471,7 +471,7 @@
           <mxGeometry x="580" y="640" width="80" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="640" width="99.61" height="16.66" as="geometry" />
+          <mxGeometry x="932.62" y="640" width="99.61" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="671.51" width="93" height="16.66" as="geometry" />
