@@ -202,18 +202,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="939.3599999999999" y="404.73" width="77.2" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-240" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="630" as="sourcePoint" />
-            <mxPoint x="360" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1080" y="630" />
-              <mxPoint x="1080" y="740" />
-              <mxPoint x="360" y="740" />
-              <mxPoint x="360" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="测定病毒TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="502.95342857142856" y="229.2" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
@@ -458,35 +446,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-251" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="640" width="330" height="84.69" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-252" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="630" width="710" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-240" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="U3-DiGzachXiAywoB_Pa-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" />
+              <mxPoint x="710" y="110" />
+              <mxPoint y="110" />
+              <mxPoint y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-251" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-252">
+          <mxGeometry x="197.22222222222223" y="10" width="325.4166666666667" height="84.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry width="112.85909712722301" height="16.660327868852438" as="geometry" />
+          <mxGeometry width="111.2916096671227" height="16.660327868852438" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-127" value="annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry y="34.01923254098359" width="138.3652530779754" height="16.655931393442607" as="geometry" />
+          <mxGeometry y="34.01923254098359" width="136.44351345189241" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="235.19835841313267" y="34.01923254098359" width="94.80164158686733" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="231.93171454628362" y="34.01923254098359" width="93.48495212038307" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-130" value="JC-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="151.79548563611488" y="34.01923254098359" width="70.98837209302327" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="149.68721500227994" y="34.01923254098359" width="70.00242248062017" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-131" value="DLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry y="68.03406860655733" width="111.05335157318746" height="16.655931393442607" as="geometry" />
+          <mxGeometry y="68.03406860655733" width="109.51094391244875" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="125.2735978112175" y="0.0043964754098531076" width="98.63885088919291" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="123.53368673050615" y="0.0043964754098531076" width="97.26886684906523" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="125.2735978112175" y="68.03406860655733" width="98.63885088919291" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="123.53368673050615" y="68.03406860655733" width="97.26886684906523" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-117" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="235.19835841313267" y="68.03406860655733" width="94.80164158686733" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="231.93171454628362" y="68.03406860655733" width="93.48495212038307" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="235.19835841313267" y="0.0043964754098531076" width="94.80164158686733" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="231.93171454628362" y="0.0043964754098531076" width="93.48495212038307" height="16.655931393442607" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
