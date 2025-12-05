@@ -40,12 +40,6 @@
             <mxPoint x="746.0975609756098" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="140" y="293" width="69.39902439024391" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="217.00682926829268" y="332" width="40.97560975609757" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="556.553601815088" y="430" as="targetPoint" />
@@ -488,6 +482,15 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-73" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505.57525745257465" y="494.65979591836737" width="121.21951219512194" height="14.693877551020405" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-264" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="293" width="117.98243902439026" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-5" value="抗病毒活性评价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="U3-DiGzachXiAywoB_Pa-264" vertex="1">
+          <mxGeometry width="69.39902439024391" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-264">
+          <mxGeometry x="77.00682926829268" y="39" width="40.97560975609757" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
