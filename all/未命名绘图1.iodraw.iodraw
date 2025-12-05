@@ -96,7 +96,7 @@
           <mxGeometry x="649.9963333333334" y="640" width="123.11" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="640" width="80" height="16.66" as="geometry" />
+          <mxGeometry x="446.72" y="640" width="80" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-130" value="JC-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550.65" y="640" width="80" height="16.66" as="geometry" />
@@ -487,7 +487,7 @@
           <mxGeometry x="791.4486848915678" y="660" width="108.52057691722872" height="16.660000000000032" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-268" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="909.42411707271" y="660" width="100.24588292729004" height="16.660000000000032" as="geometry" />
+          <mxGeometry x="1100.00411707271" y="640" width="100.24588292729004" height="16.660000000000032" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
