@@ -29,6 +29,17 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="357" y="351.2244897959183" width="120" height="22.04081632653061" as="geometry" />
         </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="U3-DiGzachXiAywoB_Pa-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337" y="152.04265306122446" as="targetPoint" />
+            <mxPoint x="417" y="130.00183673469388" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="417" y="137" />
+              <mxPoint x="337" y="137" />
+              <mxPoint x="337" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="417" y="130.00183673469388" as="sourcePoint" />
@@ -272,15 +283,6 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="空白对照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225.05" y="150" width="79.9" height="18.03" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="U3-DiGzachXiAywoB_Pa-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="130" as="sourcePoint" />
-            <mxPoint x="430" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="140" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
