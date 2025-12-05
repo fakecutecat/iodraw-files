@@ -73,14 +73,14 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-240" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="595.91" as="sourcePoint" />
-            <mxPoint x="480" y="600" as="targetPoint" />
+            <mxPoint x="480" y="594.33" as="sourcePoint" />
+            <mxPoint x="480" y="598.33" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1092.5408181818182" y="595.91" />
-              <mxPoint x="1260" y="595.91" />
-              <mxPoint x="1260" y="635.91" />
-              <mxPoint x="610" y="635.91" />
-              <mxPoint x="440" y="635.91" />
+              <mxPoint x="1092.5408181818182" y="594.24" />
+              <mxPoint x="1260" y="594.24" />
+              <mxPoint x="1260" y="634.24" />
+              <mxPoint x="610" y="634.24" />
+              <mxPoint x="440" y="634.24" />
             </Array>
           </mxGeometry>
         </mxCell>
