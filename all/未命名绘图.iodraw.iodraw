@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-68" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="315" width="280" height="50" as="geometry" />
+          <mxGeometry x="129" y="320" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-68">
           <mxGeometry x="12.800000000000011" y="15" width="77.2" height="20" as="geometry" />
