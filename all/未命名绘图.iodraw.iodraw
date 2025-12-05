@@ -419,8 +419,8 @@
             <mxPoint x="870" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="240" width="60" height="20" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="拌料给药21天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="240" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
