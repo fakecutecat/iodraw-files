@@ -323,6 +323,12 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-57" value="释放" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-58" vertex="1">
           <mxGeometry x="157.83704786262328" width="43.84362440628424" height="18.033395176252313" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="480" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
