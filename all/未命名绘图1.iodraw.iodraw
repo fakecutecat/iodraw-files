@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-265" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="555.91" width="99.74878935698449" height="99.69000000000005" as="geometry" />
+          <mxGeometry x="364" y="555.91" width="99.74878935698449" height="99.69000000000005" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-140" value="S-CPP调控PRRSV复制相关通路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-265">
           <mxGeometry width="58.67372062084258" height="99.69" as="geometry" />
@@ -77,8 +77,8 @@
             <mxPoint x="480" y="598.33" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1092.5408181818182" y="594.24" />
-              <mxPoint x="1220" y="590" />
-              <mxPoint x="1260" y="634.24" />
+              <mxPoint x="1220" y="594" />
+              <mxPoint x="1220" y="634" />
               <mxPoint x="610" y="634.24" />
               <mxPoint x="480" y="634" />
             </Array>
