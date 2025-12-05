@@ -428,9 +428,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-169" target="U3-DiGzachXiAywoB_Pa-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-169" target="U3-DiGzachXiAywoB_Pa-178">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="外周血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730.0999999999999" y="368" width="77.2" height="16" as="geometry" />
         </mxCell>
@@ -440,11 +437,14 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-178" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773.8599999999999" y="404" width="49.53" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-180" target="U3-DiGzachXiAywoB_Pa-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-180" value="血常规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="404" width="48.93" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-195" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="400" width="209.54" height="20" as="geometry" />
+          <mxGeometry x="840" y="402" width="209.54" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-195">
           <mxGeometry x="164.31645900496645" width="45.22354099503355" height="20" as="geometry" />
