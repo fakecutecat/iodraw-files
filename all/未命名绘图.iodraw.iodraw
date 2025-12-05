@@ -63,22 +63,6 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-4" value="确定S-CPP安全应用浓度与剂量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595.5" y="80" width="243" height="22.04" as="geometry" />
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="67wakWPoND7Ayu36G2Oa-78" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565" y="564.0822448979591" />
-              <mxPoint x="448" y="564.0822448979591" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="67wakWPoND7Ayu36G2Oa-82" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565" y="564.0822448979591" />
-              <mxPoint x="675" y="564.0822448979591" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="534.6944897959183" width="120" height="22.04081632653061" as="geometry" />
         </mxCell>
