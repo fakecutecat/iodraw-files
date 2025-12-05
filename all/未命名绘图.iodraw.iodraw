@@ -478,10 +478,13 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-232">
           <mxGeometry x="319.17044718081644" y="10" width="124.1218405703175" height="14.69" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-233" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-233" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="67wakWPoND7Ayu36G2Oa-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="520" as="sourcePoint" />
             <mxPoint x="930" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="546" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
