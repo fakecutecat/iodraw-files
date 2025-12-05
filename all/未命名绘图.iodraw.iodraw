@@ -428,7 +428,7 @@
           <mxGeometry x="864.73" y="461.42" width="40.21999999999999" height="45.30999999999999" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-232" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="460" y="690" width="456" height="90" as="geometry" />
+          <mxGeometry x="475.75" y="620" width="456" height="90" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-126" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-232">
           <mxGeometry x="11.230071289695427" y="9.996122448979577" width="147.76409591704464" height="14.693877551020405" as="geometry" />
