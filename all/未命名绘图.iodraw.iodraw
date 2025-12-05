@@ -299,6 +299,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152.8" y="330" width="77.2" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241.66000000000003" y="330" width="77.2" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
