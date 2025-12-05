@@ -296,8 +296,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="149.99685714285715" y="324.7" width="124.19314285714286" height="20.000000000000004" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="确定药物作用方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.80342857142855" y="330" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
