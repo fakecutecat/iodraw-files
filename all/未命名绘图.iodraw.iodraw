@@ -307,12 +307,12 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-158" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890.05" y="269" as="sourcePoint" />
-            <mxPoint x="870.05" y="269" as="targetPoint" />
+            <mxPoint x="890.05" y="279" as="sourcePoint" />
+            <mxPoint x="870.05" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="拌料给药14天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890.85" y="260" width="80" height="20" as="geometry" />
+          <mxGeometry x="890.85" y="270" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437.8" y="352" width="77.2" height="16" as="geometry" />
