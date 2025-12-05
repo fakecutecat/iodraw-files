@@ -381,10 +381,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-100" value="&lt;div&gt;annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V-FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="520" width="102" height="14.69" as="geometry" />
+          <mxGeometry x="400.9" y="644.08" width="102" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-102" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525.05" y="520" width="84.95" height="14.69" as="geometry" />
+          <mxGeometry x="522.53" y="644.08" width="84.95" height="14.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
