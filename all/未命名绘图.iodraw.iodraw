@@ -480,7 +480,7 @@
           <mxGeometry x="650.998217757615" y="690" width="129.14581983149702" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-117" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="794.9204471808164" y="690" width="124.1218405703175" height="14.69" as="geometry" />
+          <mxGeometry x="794.92" y="690" width="125.08" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="794.9204471808164" y="630" width="124.1218405703175" height="14.69" as="geometry" />
