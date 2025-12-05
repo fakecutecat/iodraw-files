@@ -319,7 +319,7 @@
           <mxGeometry x="556.0999999999999" y="660" width="62.9" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-131" value="DLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421.6" y="690" width="70" height="14.69" as="geometry" />
+          <mxGeometry x="421.6" y="690" width="98.4" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-107" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -346,7 +346,7 @@
           <mxGeometry x="532.6" y="630" width="87.4" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="566.6" y="690" width="76" height="14.69" as="geometry" />
+          <mxGeometry x="532.6" y="690" width="76" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-117" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="690" width="64" height="14.69" as="geometry" />
