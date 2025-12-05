@@ -214,26 +214,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="199" y="570.0028571428571" width="430" height="29.387755102040785" as="geometry" />
+          <mxGeometry x="310" y="570" width="210" height="29.39" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-94" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="U3-DiGzachXiAywoB_Pa-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="29.387755102040785" as="sourcePoint" />
-            <mxPoint x="430" as="targetPoint" />
+            <mxPoint y="29.39" as="sourcePoint" />
+            <mxPoint x="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="29.387755102040785" />
-              <mxPoint x="430" y="29.387755102040785" />
-              <mxPoint x="430" y="14.693877551020421" />
+              <mxPoint x="107.44186046511628" y="29.39" />
+              <mxPoint x="210" y="29.39" />
+              <mxPoint x="210" y="14.695000000000029" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-95" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="U3-DiGzachXiAywoB_Pa-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="29.387755102040785" as="sourcePoint" />
-            <mxPoint x="430" as="targetPoint" />
+            <mxPoint y="29.39" as="sourcePoint" />
+            <mxPoint x="210" as="targetPoint" />
             <Array as="points">
               <mxPoint />
-              <mxPoint x="220" />
+              <mxPoint x="107.44186046511628" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -349,6 +349,33 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-57" value="释放" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-58" vertex="1">
           <mxGeometry x="157.83704786262328" width="43.84362440628424" height="18.033395176252313" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="474.69" width="210" height="29.39" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="29.39" as="sourcePoint" />
+            <mxPoint x="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="107.44186046511628" y="29.39" />
+              <mxPoint x="210" y="29.39" />
+              <mxPoint x="210" y="14.695000000000029" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-93" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="29.39" as="sourcePoint" />
+            <mxPoint x="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint />
+              <mxPoint x="107.44186046511628" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-94" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="482.03979591836736" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
