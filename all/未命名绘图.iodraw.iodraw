@@ -325,10 +325,7 @@
           <mxGeometry x="652.5999999999999" y="660" width="62.9" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-131" value="荧光素酶报告基因实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421.6" y="690" width="178.4" height="14.69" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615.5" y="690" width="100" height="14.69" as="geometry" />
+          <mxGeometry x="421.6" y="690" width="148.4" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-134" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="414" y="620" width="308.6" height="90" as="geometry" />
@@ -356,6 +353,9 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-134">
           <mxGeometry x="116" y="40" width="110" height="14.69" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-134">
+          <mxGeometry x="166" y="70" width="100" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-136" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="430" y="120" width="588" height="40" as="geometry" />
