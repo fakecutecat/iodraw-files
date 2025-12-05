@@ -263,10 +263,10 @@
           <mxGeometry x="160.5" y="80" width="79.9" height="18.03" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-3" value="PRRSV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290.1" y="70" width="80" height="18.03" as="geometry" />
+          <mxGeometry x="250.00000000000003" y="80" width="80" height="18.03" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-4" value="利巴韦林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="70" width="80" height="18.03" as="geometry" />
+          <mxGeometry x="340" y="80" width="80" height="18.03" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-5" value="低剂量S-CPP+PRRSV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="70" width="130" height="18.03" as="geometry" />
