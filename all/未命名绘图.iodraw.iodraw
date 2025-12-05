@@ -311,7 +311,7 @@
           <mxGeometry x="520" y="492.03979591836736" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-100" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="655.16" width="100" height="14.69" as="geometry" />
+          <mxGeometry x="419" y="655.16" width="100" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-102" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="642.0999999999999" y="655.16" width="62.9" height="14.69" as="geometry" />
