@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="679" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,21 +66,21 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="67wakWPoND7Ayu36G2Oa-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="564.0822448979591" />
-              <mxPoint x="443" y="564.0822448979591" />
+              <mxPoint x="565" y="564.0822448979591" />
+              <mxPoint x="448" y="564.0822448979591" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="67wakWPoND7Ayu36G2Oa-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="564.0822448979591" />
-              <mxPoint x="670" y="564.0822448979591" />
+              <mxPoint x="565" y="564.0822448979591" />
+              <mxPoint x="675" y="564.0822448979591" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="534.6944897959183" width="120" height="22.04081632653061" as="geometry" />
+          <mxGeometry x="505" y="534.6944897959183" width="120" height="22.04081632653061" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="U3-DiGzachXiAywoB_Pa-25">
           <mxGeometry relative="1" as="geometry">
@@ -105,11 +105,11 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="559.76" y="534.6944897959183" as="targetPoint" />
-            <mxPoint x="559.76" y="520.000612244898" as="sourcePoint" />
+            <mxPoint x="564.76" y="534.6944897959183" as="targetPoint" />
+            <mxPoint x="564.76" y="520.000612244898" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="559.76" y="520.000612244898" />
-              <mxPoint x="559.76" y="520.000612244898" />
+              <mxPoint x="564.76" y="520.000612244898" />
+              <mxPoint x="564.76" y="520.000612244898" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -117,13 +117,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-78" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="393" y="578.7761224489795" width="100" height="14.693877551020405" as="geometry" />
+          <mxGeometry x="398" y="578.7761224489795" width="100" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-81" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="507" y="578.7761224489795" width="100" height="14.693877551020405" as="geometry" />
+          <mxGeometry x="512" y="578.7761224489795" width="100" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-82" value="&lt;div&gt;Co-IP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="578.7761224489795" width="100" height="14.693877551020405" as="geometry" />
+          <mxGeometry x="625" y="578.7761224489795" width="100" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="472" y="120" width="490" height="40" as="geometry" />
