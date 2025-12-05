@@ -313,7 +313,7 @@
           <mxGeometry x="421.6" y="629.9961224489796" width="100" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-127" value="annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.6" y="630" width="110" height="14.69" as="geometry" />
+          <mxGeometry x="532.6" y="660" width="110" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="652.5999999999999" y="630.0000000000001" width="62.9" height="14.69" as="geometry" />
@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="660" width="110" height="14.69" as="geometry" />
+          <mxGeometry x="845.5" y="558.31" width="110" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="566.6" y="690" width="76" height="14.69" as="geometry" />
