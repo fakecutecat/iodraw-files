@@ -411,7 +411,7 @@
           <mxGeometry x="785" y="210" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-154" value="拌料给药21天，0/1/3/5/7/10/14/21 dpi采集外周血样、记录体重、体温、临床评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="802.5" y="250" width="217.5" height="80" as="geometry" />
+          <mxGeometry x="802.5" y="250" width="217.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
