@@ -432,7 +432,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="外周血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="749.9999999999999" y="364" width="77.2" height="16" as="geometry" />
+          <mxGeometry x="733.8999999999999" y="364" width="77.2" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="904.9499999999999" y="364" width="77.2" height="16" as="geometry" />
@@ -444,7 +444,7 @@
           <mxGeometry x="733.9" y="400" width="48.93" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-195" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="850" y="400" width="229.53999999999996" height="16" as="geometry" />
+          <mxGeometry x="825.05" y="400" width="229.53999999999996" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-195">
           <mxGeometry x="180" width="49.54" height="16" as="geometry" />
