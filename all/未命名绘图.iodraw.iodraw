@@ -182,9 +182,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-148" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
           <mxGeometry x="231.93171454628362" y="0.0043964754098531076" width="93.48495212038307" height="16.655931393442607" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-256" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-73" target="U3-DiGzachXiAywoB_Pa-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-73" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="527.7777777777778" y="492.03979591836736" width="88.74999999999999" height="14.693877551020405" as="geometry" />
         </mxCell>
@@ -195,9 +192,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555.0010924369749" y="254.28523721176776" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降关键基因验证表型、机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-254">
-          <mxGeometry x="228.75" y="413.48" width="211.25" height="22.04" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="3周龄仔猪PRRSV滴鼻感染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-254">
           <mxGeometry x="415" y="80" width="160" height="20" as="geometry" />
@@ -321,9 +315,6 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-39" value="后处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-254">
           <mxGeometry x="233.57999999999993" y="147.1428571428571" width="46.68" height="15.454285714285714" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-254" vertex="1">
-          <mxGeometry x="252.69097222222217" y="374.69000000000005" width="172.56944444444443" height="22.04" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-254">
           <mxGeometry x="162.75763888888878" y="40" width="78.79027777777777" height="18.03" as="geometry" />
@@ -482,6 +473,15 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-254" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-228">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-257" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-254">
+          <mxGeometry x="228.75" y="374.69000000000005" width="211.25" height="60.829999999999984" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降关键基因验证表型、机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-257">
+          <mxGeometry y="38.789999999999964" width="211.25" height="22.04" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-257" vertex="1">
+          <mxGeometry x="23.94097222222217" width="172.56944444444443" height="22.04" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-255" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="508.05555555555554" y="492.03979591836736" width="216.94444444444446" height="53.96020408163264" as="geometry" />
