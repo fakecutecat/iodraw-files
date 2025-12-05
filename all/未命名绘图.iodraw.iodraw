@@ -150,14 +150,11 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="测定病毒TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202.90342857142855" y="180" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="67wakWPoND7Ayu36G2Oa-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="277.03000000000003" as="sourcePoint" />
             <mxPoint x="264.9425287356323" y="319.00378478664186" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="265" y="297" />
-              <mxPoint x="265" y="297" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-38" value="共处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
