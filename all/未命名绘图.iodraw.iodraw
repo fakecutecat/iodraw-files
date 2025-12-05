@@ -46,7 +46,7 @@
             <Array as="points">
               <mxPoint x="417" y="137" />
               <mxPoint x="497" y="137.34877551020404" />
-              <mxPoint x="550" y="137" />
+              <mxPoint x="565" y="137" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,7 +284,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225.05" y="150" width="79.9" height="18.03" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-27" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-27" value="体内实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525.05" y="150" width="79.9" height="18.03" as="geometry" />
         </mxCell>
       </root>
