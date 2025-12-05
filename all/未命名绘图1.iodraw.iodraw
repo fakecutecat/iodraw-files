@@ -432,17 +432,20 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-228" value="生存曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-303">
           <mxGeometry x="45.97227409090907" width="41.33701909090909" height="48.669999999999995" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-158" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-308" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1000" y="277.09" width="189.41000000000008" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-158" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-308">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1112.7126824793772" y="294.300551948052" as="sourcePoint" />
-            <mxPoint x="1000" y="290" as="targetPoint" />
+            <mxPoint x="112.71268247937724" y="17.210551948052" as="sourcePoint" />
+            <mxPoint y="12.910000000000025" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1100" y="290" />
+              <mxPoint x="100" y="12.910000000000025" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="拌料给药14天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="277.09" width="89.41" height="30" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-159" value="拌料给药14天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-308">
+          <mxGeometry x="100" width="89.41" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
