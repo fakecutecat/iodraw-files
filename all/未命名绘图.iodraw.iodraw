@@ -437,14 +437,11 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-180" value="血常规" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="432" width="48.93" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-195" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="430" width="209.54" height="20" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1028.1464590049666" y="428" width="45.22354099503355" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-195">
-          <mxGeometry x="164.31645900496645" width="45.22354099503355" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-195">
-          <mxGeometry width="155.1877668380239" height="20" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="863.83" y="428" width="155.1877668380239" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
           <mxGeometry width="70.47350352879674" height="20" as="geometry" />
