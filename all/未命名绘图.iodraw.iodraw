@@ -313,7 +313,7 @@
           <mxGeometry x="520" y="660" width="122.6" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="630" width="74" height="14.69" as="geometry" />
+          <mxGeometry x="630" y="630" width="84" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-130" value="JC-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="652.5999999999999" y="660" width="62.9" height="14.69" as="geometry" />
@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532.6" y="630" width="97.4" height="14.69" as="geometry" />
+          <mxGeometry x="532.6" y="630" width="87.4" height="14.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="566.6" y="690" width="76" height="14.69" as="geometry" />
