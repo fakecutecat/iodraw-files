@@ -29,38 +29,6 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="357" y="351.2244897959183" width="120" height="22.04081632653061" as="geometry" />
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-91" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="170" y="70" width="490" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="67wakWPoND7Ayu36G2Oa-91" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="60" as="sourcePoint" />
-            <mxPoint x="490.00000000000006" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="248.38709677419357" y="60" />
-              <mxPoint x="490.00000000000006" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="67wakWPoND7Ayu36G2Oa-91" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="60" as="sourcePoint" />
-            <mxPoint x="485.483870967742" as="targetPoint" />
-            <Array as="points">
-              <mxPoint />
-              <mxPoint x="248.38709677419357" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-6" value="CCK-8" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-91" vertex="1">
-          <mxGeometry x="47.41935483870968" y="33.333333333333336" width="124.19354838709678" height="12.000000000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-91" vertex="1">
-          <mxGeometry x="182.90322580645164" y="33.333333333333336" width="124.19354838709678" height="12.000000000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-8" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-91" vertex="1">
-          <mxGeometry x="318.3870967741936" y="33.333333333333336" width="124.19354838709678" height="12.000000000000002" as="geometry" />
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="334" y="211.63265306122446" as="targetPoint" />
@@ -273,6 +241,35 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-5" value="低、中、高剂量S-CPP+PRRSV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-9">
           <mxGeometry x="270" width="190" height="18.03" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="130" as="sourcePoint" />
+            <mxPoint x="660" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="418.38709677419354" y="130" />
+              <mxPoint x="660" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="130" as="sourcePoint" />
+            <mxPoint x="655.483870967742" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="70" />
+              <mxPoint x="418.38709677419354" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-6" value="CCK-8" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="217.4193548387097" y="103.33333333333334" width="124.19354838709678" height="12.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352.90322580645164" y="103.33333333333334" width="124.19354838709678" height="12.000000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-8" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="488.3870967741936" y="103.33333333333334" width="124.19354838709678" height="12.000000000000002" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
