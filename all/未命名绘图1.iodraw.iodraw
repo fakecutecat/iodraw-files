@@ -466,7 +466,7 @@
           <mxGeometry x="752.7263333333334" y="640" width="228.62500000000003" height="84.69" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-127" value="annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V FITC/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="-32.7481694214876" y="34.01923254098359" width="95.85986662106704" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="-60" y="34.02" width="123.11" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
           <mxGeometry x="130.1979660094289" y="34.01923254098359" width="65.67886456908347" height="16.655931393442607" as="geometry" />
@@ -478,7 +478,7 @@
           <mxGeometry x="-32.7481694214876" y="68.03406860655733" width="76.93809849521207" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-129" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
-          <mxGeometry x="54.04175875908694" y="0.0043964754098531076" width="68.33729480164159" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="-22.729999999999997" width="112.38" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-132" value="BiFC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-251">
           <mxGeometry x="54.04175875908694" y="68.03406860655733" width="68.33729480164159" height="16.655931393442607" as="geometry" />
