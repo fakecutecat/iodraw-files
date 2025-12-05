@@ -420,13 +420,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="外周血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="778.27" y="364" width="77.2" height="16" as="geometry" />
+          <mxGeometry x="782.3299999999999" y="364" width="77.2" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="866.4" y="364" width="77.2" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="951.71" y="364" width="77.2" height="16" as="geometry" />
+          <mxGeometry x="870.4599999999999" y="364" width="77.2" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
