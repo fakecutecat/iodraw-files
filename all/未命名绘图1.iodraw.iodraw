@@ -469,10 +469,10 @@
           <mxGeometry x="639.9963333333334" y="674.01" width="123.11" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-128" value="ROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="882.9242993427623" y="674.0192325409836" width="65.67886456908347" height="16.655931393442607" as="geometry" />
+          <mxGeometry x="882.9242993427623" y="708.0292325409836" width="65.67886456908347" height="16.655931393442607" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-130" value="JC-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="674.02" width="64.32" height="16.66" as="geometry" />
+          <mxGeometry x="883.81" y="671.51" width="64.32" height="16.66" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-131" value="DLR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640.6281639118457" y="708.0340686065573" width="76.93809849521207" height="16.655931393442607" as="geometry" />
