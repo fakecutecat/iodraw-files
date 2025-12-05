@@ -478,13 +478,14 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
           <mxGeometry x="49.600588235294104" width="44.08941176470587" height="45.30999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="U3-DiGzachXiAywoB_Pa-213">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="972.6499999999999" y="420.73" as="sourcePoint" />
             <mxPoint x="990" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1080" y="421" />
-              <mxPoint x="1080" y="535" />
+              <mxPoint x="1080" y="540" />
+              <mxPoint x="960" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
