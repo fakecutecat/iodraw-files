@@ -263,8 +263,10 @@
             <mxPoint x="764.6944444444445" y="226.00000000000028" as="targetPoint" />
             <mxPoint x="846.9166666666667" y="170" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="846.9166666666667" y="187.78051851851862" />
-              <mxPoint x="690.6944444444445" y="187.78051851851862" />
+              <mxPoint x="847" y="188" />
+              <mxPoint x="691" y="188" />
+              <mxPoint x="691" y="220" />
+              <mxPoint x="692" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -411,17 +413,14 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-289">
           <mxGeometry x="21.329003928571428" y="14.198999999999993" width="74.82816785714286" height="18.93200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-290" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620" y="207.33" width="144.03" height="102.67" as="geometry" />
+        <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="测定病毒TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="239.86730454668788" width="144.02100932752114" height="22.285825031977993" as="geometry" />
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="测定病毒TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-290" vertex="1">
-          <mxGeometry y="32.537304546687864" width="144.02100932752114" height="22.285825031977993" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646.329016326338" y="207.33" width="91.36941919413448" height="20.09067126632816" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-290">
-          <mxGeometry x="26.32901632633792" width="91.36941919413448" height="20.09067126632816" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-253" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-290">
-          <mxGeometry x="0.009814518960939461" y="66.85349548432109" width="144.020185481039" height="35.816504515678915" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-253" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620.009814518961" y="274.1834954843211" width="144.020185481039" height="35.816504515678915" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-253" source="67wakWPoND7Ayu36G2Oa-7">
           <mxGeometry relative="1" as="geometry">
@@ -431,7 +430,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="确定药物作用方式（预/共/后处理）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-253">
           <mxGeometry width="144.020185481039" height="35.816504515678915" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-290" source="U3-DiGzachXiAywoB_Pa-25" target="67wakWPoND7Ayu36G2Oa-7">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-25" target="67wakWPoND7Ayu36G2Oa-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
