@@ -289,7 +289,7 @@
           <mxGeometry x="620" y="239.86730454668788" width="144.02100932752114" height="22.285825031977993" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="646.329016326338" y="207.33" width="91.36941919413448" height="20.09067126632816" as="geometry" />
+          <mxGeometry x="640" y="200" width="97.7" height="27.42" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-253" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="620.009814518961" y="274.1834954843211" width="144.020185481039" height="35.816504515678915" as="geometry" />
