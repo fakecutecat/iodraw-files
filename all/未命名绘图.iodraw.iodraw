@@ -472,15 +472,15 @@
           <mxGeometry x="38.48823529411764" width="34.21176470588234" height="45.309999999999995" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1013.21" y="461.42" width="29.75" height="45.31" as="geometry" />
+          <mxGeometry x="1010.25" y="461.42" width="29.75" height="45.31" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="912.96" y="461.42" width="41.71" height="45.31" as="geometry" />
+          <mxGeometry x="910" y="461.42" width="41.71" height="45.31" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="958.88" y="461.42" width="44.08" height="45.31" as="geometry" />
+          <mxGeometry x="955.92" y="461.42" width="44.08" height="45.31" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="临床评分曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="461.42" width="40.21999999999999" height="45.30999999999999" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-228" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
