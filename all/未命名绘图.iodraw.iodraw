@@ -271,6 +271,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="U3-DiGzachXiAywoB_Pa-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.82999999999998" y="61.97000000000003" as="targetPoint" />
+            <mxPoint x="139.82999999999998" y="29.970000000000027" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-29" value="prrsv生命周期阶段性干预" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="380" width="210" height="18.03" as="geometry" />
         </mxCell>
