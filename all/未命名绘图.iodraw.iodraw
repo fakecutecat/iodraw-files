@@ -63,8 +63,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350.00000000000006" y="482.03979591836736" width="90" height="14.693877551020405" as="geometry" />
+        <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="子代TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340.00000000000006" y="482.03979591836736" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-72" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="577.3497959183674" width="90" height="14.693877551020405" as="geometry" />
