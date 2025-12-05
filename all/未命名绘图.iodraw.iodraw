@@ -63,9 +63,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="子代TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340.00000000000006" y="482.03979591836736" width="90" height="14.693877551020405" as="geometry" />
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-72" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="577.3497959183674" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
@@ -347,8 +344,14 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-57" value="释放" style="rounded=0;whiteSpace=wrap;html=1;" parent="67wakWPoND7Ayu36G2Oa-58" vertex="1">
           <mxGeometry x="157.83704786262328" width="43.84362440628424" height="18.033395176252313" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-95" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="474.69" width="210" height="29.389999999999986" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-96" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="474.69" width="310.00000000000006" height="29.389999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-74" value="子代TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-96" vertex="1">
+          <mxGeometry x="220.00000000000006" y="7.349795918367363" width="90" height="14.693877551020405" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-95" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-96">
+          <mxGeometry width="210" height="29.389999999999986" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-91" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-95">
           <mxGeometry width="210" height="29.39" as="geometry" />
@@ -379,6 +382,9 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-94" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-95">
           <mxGeometry x="9" y="7.349795918367363" width="90" height="14.693877551020405" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-57" target="67wakWPoND7Ayu36G2Oa-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
