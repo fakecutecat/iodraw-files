@@ -68,9 +68,6 @@
             <mxPoint x="703.75" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="U3-DiGzachXiAywoB_Pa-129">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616.25" y="534.69" width="175" height="22.04" as="geometry" />
         </mxCell>
