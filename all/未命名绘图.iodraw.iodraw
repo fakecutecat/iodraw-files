@@ -257,19 +257,19 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="265" y="250" as="sourcePoint" />
-            <mxPoint x="335" y="270" as="targetPoint" />
+            <mxPoint x="257.1" y="250" as="sourcePoint" />
+            <mxPoint x="327.1" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="335" y="250" />
+              <mxPoint x="327.1" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="210" as="sourcePoint" />
-            <mxPoint x="200" y="230" as="targetPoint" />
+            <mxPoint x="266.9" y="250" as="sourcePoint" />
+            <mxPoint x="206.9" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="210" />
+              <mxPoint x="206.9" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
