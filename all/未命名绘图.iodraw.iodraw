@@ -208,17 +208,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-33" value="确定药物作用阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="67wakWPoND7Ayu36G2Oa-62">
-          <mxGeometry x="50" width="126.1" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.207;exitY=0.99;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="67wakWPoND7Ayu36G2Oa-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="77.61140914285716" y="24.927346938775486" as="sourcePoint" />
-            <mxPoint x="46.7422689075629" y="41.19679035250465" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="51.90342857142855" y="-0.0026530612244641816" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-33" target="67wakWPoND7Ayu36G2Oa-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="269.8431092436974" y="244.04717996289423" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.207;exitY=0.99;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-33" target="67wakWPoND7Ayu36G2Oa-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.50697478991606" y="244.04717996289423" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="67wakWPoND7Ayu36G2Oa-35" edge="1">
@@ -290,6 +289,16 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-8" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469.63685714285714" y="180" width="124.19314285714286" height="20.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-25" target="67wakWPoND7Ayu36G2Oa-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="168" as="sourcePoint" />
+            <mxPoint x="265" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="168" />
+              <mxPoint x="260" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
