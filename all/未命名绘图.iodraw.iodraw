@@ -447,7 +447,7 @@
           <mxGeometry x="733.9" y="400" width="48.93" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="870" y="400" width="170" height="16" as="geometry" />
+          <mxGeometry x="860" y="400" width="170" height="16" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
           <mxGeometry width="77.2" height="16" as="geometry" />
