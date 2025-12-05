@@ -451,8 +451,14 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="肺组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="368" width="77.2" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-200" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="727.3" y="424.69" width="80" height="110" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-213" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="784.99" y="534.69" width="175" height="22.04" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-214" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="727.3" y="424.69" width="312.70000000000005" height="110.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-200" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-214">
+          <mxGeometry width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-201" value="血&lt;div&gt;常&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-200">
           <mxGeometry width="36.32941176470588" height="109.99999999999999" as="geometry" />
@@ -460,11 +466,11 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-202" value="ELISA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-200">
           <mxGeometry x="42.35294117647059" width="37.6470588235294" height="109.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="999.78" y="424.69" width="40.22" height="110" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-214">
+          <mxGeometry x="272.48" width="40.22" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="900" y="424.69" width="93.69" height="110" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-188" value="" style="group" vertex="1" connectable="0" parent="U3-DiGzachXiAywoB_Pa-214">
+          <mxGeometry x="172.70000000000005" width="93.69" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-188">
           <mxGeometry width="42.546282352941176" height="110" as="geometry" />
