@@ -288,7 +288,7 @@
           <mxGeometry x="270.9668571428572" width="124.19314285714286" height="20.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-30" value="体外实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198.67" y="210" width="131.33" height="18.03" as="geometry" />
+          <mxGeometry x="198.67" y="210" width="121.33" height="18.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
