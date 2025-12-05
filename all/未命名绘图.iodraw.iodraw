@@ -383,7 +383,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-100" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-99">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-100" value="&lt;div&gt;annexin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;V-FITC/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;PI双染&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-DiGzachXiAywoB_Pa-99">
           <mxGeometry x="9" y="25.309795918367342" width="90" height="14.693877551020405" as="geometry" />
         </mxCell>
       </root>
