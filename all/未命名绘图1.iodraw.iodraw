@@ -296,16 +296,16 @@
           <mxGeometry x="939.79" y="425.78999999999996" width="45.86000000000002" height="39.71999999999995" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1010" y="420" width="152.9" height="39.72" as="geometry" />
+          <mxGeometry x="1015.32" y="420" width="140" height="39.72" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;临床评分曲线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ikXE14nvDFp7r7v0YMWf-69">
-          <mxGeometry width="50.96666666666655" height="39.71999999999998" as="geometry" />
+          <mxGeometry width="46.66666666666656" height="39.71999999999998" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;体重变化曲线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ikXE14nvDFp7r7v0YMWf-69">
-          <mxGeometry x="50.96666666666666" width="50.96666666666655" height="39.71999999999998" as="geometry" />
+          <mxGeometry x="46.66666666666666" width="46.66666666666656" height="39.71999999999998" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RT-qPCR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ikXE14nvDFp7r7v0YMWf-69">
-          <mxGeometry x="101.93333333333332" width="50.96666666666655" height="39.71999999999998" as="geometry" />
+          <mxGeometry x="93.33333333333331" width="46.66666666666656" height="39.71999999999998" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1163.6" y="425.79" width="82.28" height="39.72" as="geometry" />
