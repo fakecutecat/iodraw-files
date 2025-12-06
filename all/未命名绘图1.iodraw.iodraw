@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1">
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1" target="ikXE14nvDFp7r7v0YMWf-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1037.2644827586207" y="445.81000000000006" as="targetPoint" />
           </mxGeometry>
@@ -147,9 +147,6 @@
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;过表达 / 敲降关键基因&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="877.66" y="512" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-27" target="U3-DiGzachXiAywoB_Pa-152" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-66" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="528.27" y="198.64" width="321.7791854547523" height="273.1" as="geometry" />
