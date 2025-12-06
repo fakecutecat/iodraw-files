@@ -84,15 +84,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;S-CPP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-309" vertex="1">
           <mxGeometry x="316.5726957292972" width="93.28108898100841" height="27.045" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="U3-DiGzachXiAywoB_Pa-152" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1075.99" y="220" />
-              <mxPoint x="1046.99" y="220" />
-            </Array>
-            <mxPoint x="1075.6763667424527" y="230.20828941776452" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3周龄仔猪PRRSV滴鼻感染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="969.84" y="245.54" width="212.66" height="30" as="geometry" />
         </mxCell>
@@ -119,6 +110,9 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-169" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;外周血&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920.2199999999999" y="370.51" width="85.32" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-27" target="U3-DiGzachXiAywoB_Pa-152">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;体内&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1033.65" y="198.64" width="95.43" height="31.36" as="geometry" />
