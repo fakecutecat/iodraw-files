@@ -238,16 +238,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="U3-DiGzachXiAywoB_Pa-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="156.10714285714286" y="70.00000000000001" as="targetPoint" />
-            <mxPoint x="161.64285714285714" y="50.00000000000003" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="150" y="50" />
-              <mxPoint x="150" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;IFA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-289" vertex="1">
           <mxGeometry x="120.75484126984139" y="14.999999999999998" width="84.28432539682542" height="20.000000000000007" as="geometry" />
         </mxCell>
@@ -281,9 +271,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="657.1105901648543" y="421.2060893008925" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="67wakWPoND7Ayu36G2Oa-29" target="U3-DiGzachXiAywoB_Pa-45">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;prrsv复制周期阶段性干预&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540.9220859132222" y="399.99806045473866" width="232.0826538499508" height="20.176032356243276" as="geometry" />
