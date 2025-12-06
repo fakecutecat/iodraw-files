@@ -327,16 +327,10 @@
         <mxCell id="ikXE14nvDFp7r7v0YMWf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.434;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1025.5363667424529" y="198.64" as="sourcePoint" />
-            <mxPoint x="846.89" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1026.89" y="190" />
-              <mxPoint x="1016.89" y="190" />
-              <mxPoint x="930" y="190" />
-              <mxPoint x="846.89" y="190" />
-            </Array>
+            <mxPoint x="870" y="280" as="sourcePoint" />
+            <mxPoint x="920" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
