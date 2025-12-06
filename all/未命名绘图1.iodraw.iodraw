@@ -343,6 +343,9 @@
         <mxCell id="ikXE14nvDFp7r7v0YMWf-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="293.82000000000005" width="45.86" height="51.18" as="geometry" />
         </mxCell>
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;HE切片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="293.82000000000005" width="45.86" height="51.18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
