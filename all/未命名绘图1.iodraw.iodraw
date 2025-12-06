@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降&lt;div&gt;关键基因&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="908.31" y="550" width="111.69" height="50" as="geometry" />
+          <mxGeometry x="920.06" y="550" width="111.69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;转录组学分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="791.5400000000001" y="520" width="116.77" height="30" as="geometry" />
