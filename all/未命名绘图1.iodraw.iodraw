@@ -175,8 +175,10 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-227" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-228" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1008.5999999999999" y="464.3010526455589" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降关键基因验证表型、机制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="703.5454705345248" y="574.2783895558861" width="211.8037389984051" height="21.6316104441139" as="geometry" />
@@ -232,24 +234,6 @@
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;prrsv复制周期阶段干预&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（吸附、内化、复制、释放）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545.86" y="390" width="232.08" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-303" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="937.9088129290353" y="464.30105264555885" width="239.7534721163396" height="51.1818415320867" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-303" vertex="1">
-          <mxGeometry x="207.33226395515274" width="32.42120816118683" height="51.181841532086715" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-303" vertex="1">
-          <mxGeometry x="98.0809658657753" width="45.45507873623876" height="51.181841532086715" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-303" vertex="1">
-          <mxGeometry x="148.12405422751357" width="48.03787750403752" height="51.181841532086715" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="临床评分曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-303" vertex="1">
-          <mxGeometry width="43.831293856905354" height="51.18184153208669" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-228" value="生存曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-303" vertex="1">
-          <mxGeometry x="48.74624003529029" width="43.831293856905354" height="51.18184153208669" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-308" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="996.68" y="284.13" width="213.32" height="31.55" as="geometry" />
@@ -351,6 +335,18 @@
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;体重变化曲线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="293.82000000000005" width="45.86" height="51.18" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-175" value="HE病理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1145.241076884188" y="464.30105264555885" width="32.42120816118683" height="51.181841532086715" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-176" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1035.9897787948107" y="464.30105264555885" width="45.45507873623876" height="51.181841532086715" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1086.032867156549" y="464.30105264555885" width="48.03787750403752" height="51.181841532086715" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="临床评分曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="937.9088129290353" y="464.30105264555885" width="43.831293856905354" height="51.18184153208669" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
