@@ -316,10 +316,10 @@
           <mxGeometry x="1705.33" y="137.36000000000007" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;体重变化曲线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="968.31" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
+          <mxGeometry x="964.01" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RT-qPCR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1028.31" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
+          <mxGeometry x="1014.76" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1088.31" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
