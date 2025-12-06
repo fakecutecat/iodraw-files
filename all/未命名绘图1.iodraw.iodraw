@@ -256,7 +256,7 @@
         <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="测定病毒TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585.0488755053234" y="241.92484207150233" width="152.71123366491054" height="23.435988600750125" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;体外实验&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;体外&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="606.2556750379704" y="200" width="103.59521571698014" height="28.835136527836806" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-253" value="" style="group" parent="1" vertex="1" connectable="0">
