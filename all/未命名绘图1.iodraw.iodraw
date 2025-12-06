@@ -319,7 +319,7 @@
           <mxGeometry x="266.6300000000001" y="4.411529107368682e-14" width="45.86000000000002" height="39.71999999999995" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-59" value="&lt;span style=&quot;font-size: 14px; text-wrap-mode: wrap;&quot;&gt;拌料给药14天&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="278" width="110" height="30" as="geometry" />
+          <mxGeometry x="1280" y="290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
