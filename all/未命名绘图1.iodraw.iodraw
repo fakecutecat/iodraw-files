@@ -4,19 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="67wakWPoND7Ayu36G2Oa-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="U3-DiGzachXiAywoB_Pa-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="846.9166666666667" y="170" as="sourcePoint" />
-            <mxPoint x="929.1388888888889" y="226.00000000000028" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="846.9166666666667" y="187.78051851851862" />
-              <mxPoint x="1000" y="188" />
-              <mxPoint x="1030" y="190" />
-              <mxPoint x="1030" y="210" />
-              <mxPoint x="1040" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.073;entryY=-0.166;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-4" edge="1" target="U3-DiGzachXiAywoB_Pa-122">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840.819512195122" y="120" as="targetPoint" />
