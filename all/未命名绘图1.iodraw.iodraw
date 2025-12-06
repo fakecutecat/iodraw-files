@@ -329,6 +329,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;药物作用方式&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;（预/共/后处理）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="549.5652173913044" y="270" width="229.56521739130434" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="518" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
