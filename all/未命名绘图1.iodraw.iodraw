@@ -113,7 +113,8 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="U3-DiGzachXiAywoB_Pa-152" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1030.04" y="231.02" />
+              <mxPoint x="1059" y="220" />
+              <mxPoint x="1030" y="220" />
             </Array>
             <mxPoint x="1058.6863667424527" y="230.20828941776452" as="sourcePoint" />
           </mxGeometry>
