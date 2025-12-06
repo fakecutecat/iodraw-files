@@ -142,11 +142,8 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="U3-DiGzachXiAywoB_Pa-253" source="67wakWPoND7Ayu36G2Oa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="93.91304347826086" y="40" as="targetPoint" />
+            <mxPoint x="102" y="40" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;药物作用方式&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;（预/共/后处理）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-253" vertex="1">
-          <mxGeometry x="-10.434782608695652" width="229.56521739130434" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="67wakWPoND7Ayu36G2Oa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -328,6 +325,9 @@
               <mxPoint x="1046" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;药物作用方式&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;（预/共/后处理）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="549.5652173913044" y="270" width="229.56521739130434" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
