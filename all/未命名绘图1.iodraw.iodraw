@@ -9,7 +9,7 @@
             <mxPoint x="1037.2644827586207" y="445.81000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1">
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1" target="ikXE14nvDFp7r7v0YMWf-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1085.9500000000003" y="445.81000000000006" as="targetPoint" />
           </mxGeometry>
@@ -301,7 +301,7 @@
           <mxGeometry x="41.1399999999999" width="41.14000000000001" height="39.71999999999998" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;临床评分曲线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1000.99" y="425.79" width="46.66666666666656" height="39.71999999999998" as="geometry" />
+          <mxGeometry x="1043.33" y="425.79" width="46.66666666666656" height="39.71999999999998" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;体重变化曲线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1089.9966666666667" y="425.79" width="46.66666666666656" height="39.71999999999998" as="geometry" />
