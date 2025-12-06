@@ -144,7 +144,7 @@
           <mxGeometry x="827" y="404.33" width="85.32" height="21.35" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-170" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;肺组织&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1068.58" y="404.32" width="85.32" height="21.35" as="geometry" />
+          <mxGeometry x="1068.58" y="404.32" width="85.32" height="25.68" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;体内&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="939.2310677939973" y="200" width="95.43059789691108" height="31.548289417764558" as="geometry" />
@@ -322,10 +322,10 @@
           <mxGeometry x="1014.76" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1074.08" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
+          <mxGeometry x="1068.58" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;HE切片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
+          <mxGeometry x="1120" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.434;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-169">
           <mxGeometry relative="1" as="geometry" />
