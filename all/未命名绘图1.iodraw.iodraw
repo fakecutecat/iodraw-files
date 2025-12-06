@@ -333,7 +333,7 @@
         <mxCell id="ikXE14nvDFp7r7v0YMWf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.434;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-29" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="1" target="67wakWPoND7Ayu36G2Oa-77">
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-30" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="1" target="67wakWPoND7Ayu36G2Oa-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="170" as="sourcePoint" />
             <mxPoint x="480" y="170" as="targetPoint" />
@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="732.4664419595448" y="530.0008213982152" width="190.7139263526232" height="21.63231151721207" as="geometry" />
+          <mxGeometry x="734.6064419595448" y="530.0008213982152" width="190.7139263526232" height="21.63231151721207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
