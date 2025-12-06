@@ -328,7 +328,7 @@
           <mxGeometry x="1131.3999999999999" y="385.01" width="85.32" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-308" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1006.78" y="284.99" width="200" height="20.01" as="geometry" />
+          <mxGeometry x="723.01" y="280.02" width="200" height="20.01" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-158" value="" style="endArrow=classic;html=1;rounded=0;" parent="U3-DiGzachXiAywoB_Pa-308" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
