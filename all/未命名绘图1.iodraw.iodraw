@@ -60,7 +60,7 @@
             <mxPoint x="510" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="512.6820308169827" y="381.13" />
-              <mxPoint x="513" y="490" />
+              <mxPoint x="513" y="480" />
               <mxPoint x="1250" y="480" />
               <mxPoint x="1250" y="170" />
             </Array>
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;转录组学分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="808.2500000000001" y="490" width="116.77" height="30" as="geometry" />
+          <mxGeometry x="808.2500000000001" y="488" width="116.77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;病毒TCID&lt;sub style=&quot;&quot;&gt;50&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="614.43" y="240" width="94.95" height="25.36" as="geometry" />
