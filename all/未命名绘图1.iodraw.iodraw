@@ -65,7 +65,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-268" value="Co-IP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="846.890233556469" y="605.91" width="61.418357961840364" height="16.65999999999995" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-235" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;curved=0;jumpStyle=arc;" parent="1" edge="1" source="67wakWPoND7Ayu36G2Oa-77">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-235" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;curved=0;jumpStyle=arc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="170" as="sourcePoint" />
             <mxPoint x="480" y="170" as="targetPoint" />
@@ -171,6 +171,9 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="过表达/敲降关键基因验证表型、机制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="703.5454705345248" y="574.2783895558861" width="211.8037389984051" height="21.6316104441139" as="geometry" />
         </mxCell>
+        <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="732.5664419595448" y="536.2108213982152" width="190.7139263526232" height="21.63231151721207" as="geometry" />
+        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="U3-DiGzachXiAywoB_Pa-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -275,7 +278,11 @@
           <mxGeometry x="541.6994444444445" y="345" width="76.12777777777781" height="20.000000000000007" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikXE14nvDFp7r7v0YMWf-5" target="67wakWPoND7Ayu36G2Oa-77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="569" y="547" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RNA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528.27" y="466.23833116993114" width="81.83573189588579" height="19.268722954908917" as="geometry" />
@@ -332,16 +339,6 @@
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.434;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-169">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-30" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;curved=0;jumpStyle=arc;" edge="1" parent="1" target="67wakWPoND7Ayu36G2Oa-77">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="170" as="sourcePoint" />
-            <mxPoint x="480" y="170" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="734.6064419595448" y="530.0008213982152" width="190.7139263526232" height="21.63231151721207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
