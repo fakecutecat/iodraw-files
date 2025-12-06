@@ -4,6 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1037.2644827586207" y="445.81000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085.9500000000003" y="445.81000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1136.7" y="445.81000000000006" as="targetPoint" />
@@ -123,16 +133,6 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3周龄仔猪PRRSV滴鼻感染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="979.62" y="245.54" width="212.66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1037.2644827586207" y="445.81000000000006" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1085.9500000000003" y="445.81000000000006" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-170">
           <mxGeometry relative="1" as="geometry" />
