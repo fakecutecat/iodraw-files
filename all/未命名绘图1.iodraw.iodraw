@@ -216,7 +216,7 @@
             <mxPoint x="75.94071776787086" y="51.9879204813069" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;药物作用方式&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（预/共/后处理）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-253" vertex="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;药物作用方式&lt;/font&gt;&lt;/span&gt;&lt;font size=&quot;3&quot;&gt;（预/共/后处理）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-253" vertex="1">
           <mxGeometry width="152.7103601075509" height="37.664981679776986" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-25" target="67wakWPoND7Ayu36G2Oa-7" edge="1">
