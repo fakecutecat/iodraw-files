@@ -287,16 +287,16 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-93" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.97" y="496.07" as="sourcePoint" />
-            <mxPoint x="775.7127360715524" y="460.004604759881" as="targetPoint" />
+            <mxPoint x="546.53" y="494.33" as="sourcePoint" />
+            <mxPoint x="777.2727360715523" y="458.26460475988097" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="546.8573938646867" y="460.004604759881" />
-              <mxPoint x="663.9461735984321" y="460.004604759881" />
+              <mxPoint x="548.4173938646867" y="458.26460475988097" />
+              <mxPoint x="665.506173598432" y="458.26460475988097" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-94" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="379.99644545158856" y="490.661475052479" width="98.08196323967914" height="22.950903814829424" as="geometry" />
+          <mxGeometry x="559.9964454515886" y="464.821475052479" width="98.08196323967914" height="22.950903814829424" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-73" value="RT-qPCR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="664.6721415240237" y="464.29933789445334" width="98.05730094064978" height="23.472515265166454" as="geometry" />
