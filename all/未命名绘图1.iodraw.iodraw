@@ -159,11 +159,19 @@
         <mxCell id="ikXE14nvDFp7r7v0YMWf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-170">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1142.05" y="450.30000000000007" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="420" />
+              <mxPoint x="1130" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-170">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1193.47" y="450.30000000000007" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="420" />
+              <mxPoint x="1180" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;体内&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -310,7 +318,7 @@
           <mxGeometry x="984.5099999999999" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;RT-qPCR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1035.26" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
+          <mxGeometry x="1060" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
         </mxCell>
         <mxCell id="ikXE14nvDFp7r7v0YMWf-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;WB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="450.2800000000001" width="45.86" height="51.18" as="geometry" />
