@@ -160,9 +160,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-152" target="U3-DiGzachXiAywoB_Pa-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U3-DiGzachXiAywoB_Pa-115" target="U3-DiGzachXiAywoB_Pa-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-115" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;过表达/敲降关键基因&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="727.4254705345248" y="562.8683895558861" width="211.8037389984051" height="21.6316104441139" as="geometry" />
         </mxCell>
