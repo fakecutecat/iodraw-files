@@ -52,11 +52,11 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-240" value="" style="endArrow=none;dashed=1;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;curved=0;jumpStyle=arc;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510.93" y="550" as="sourcePoint" />
-            <mxPoint x="510.93" y="550" as="targetPoint" />
+            <mxPoint x="510" y="540" as="sourcePoint" />
+            <mxPoint x="510" y="540" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="540" />
-              <mxPoint x="1250.93" y="550" />
+              <mxPoint x="1260" y="540" />
               <mxPoint x="1250.93" y="584" />
               <mxPoint x="640.93" y="584.24" />
               <mxPoint x="510.93" y="584" />
