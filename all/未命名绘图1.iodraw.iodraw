@@ -172,20 +172,12 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-170" target="U3-DiGzachXiAywoB_Pa-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-227" edge="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="964.2544598574877" y="464.3010526455589" as="targetPoint" />
             <Array as="points">
               <mxPoint x="987" y="410" />
               <mxPoint x="960" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1008.5999999999999" y="464.3010526455589" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="987" y="410" />
-              <mxPoint x="1009" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -353,9 +345,6 @@
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-187" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1086.032867156549" y="464.30105264555885" width="48.03787750403752" height="51.181841532086715" as="geometry" />
-        </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-227" value="临床评分曲线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="937.9088129290353" y="464.30105264555885" width="43.831293856905354" height="51.18184153208669" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
