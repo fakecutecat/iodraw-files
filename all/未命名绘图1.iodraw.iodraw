@@ -114,8 +114,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3周龄仔猪PRRSV滴鼻感染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="899.81" y="246.98" width="174.27" height="43.02" as="geometry" />
+        <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3周龄仔猪PRRSV滴鼻感染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="899.81" y="260" width="174.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
