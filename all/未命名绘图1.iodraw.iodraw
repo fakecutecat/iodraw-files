@@ -340,7 +340,7 @@
             <mxPoint x="780" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-5" value="Western blot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ikXE14nvDFp7r7v0YMWf-5" value="RNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479.9964454515886" y="464.301475052479" width="98.08196323967914" height="22.950903814829424" as="geometry" />
         </mxCell>
       </root>
