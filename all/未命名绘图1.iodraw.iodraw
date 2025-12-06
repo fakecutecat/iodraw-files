@@ -247,7 +247,7 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IFA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-289" vertex="1">
           <mxGeometry x="113.6757906214828" y="14.931805381427957" width="79.34329775708407" height="19.90907384190396" as="geometry" />
         </mxCell>
-        <mxCell id="U3-DiGzachXiAywoB_Pa-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-289" vertex="1">
+        <mxCell id="U3-DiGzachXiAywoB_Pa-63" value="TCID&lt;sub&gt;50&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-289" vertex="1">
           <mxGeometry x="206.02028937114602" y="14.931805381427957" width="79.34329775708407" height="19.90907384190396" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RT-qPCR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U3-DiGzachXiAywoB_Pa-289" vertex="1">
