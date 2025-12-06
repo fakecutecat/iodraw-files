@@ -71,7 +71,7 @@
             <mxPoint x="480" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="480.08203081698264" y="380" />
-              <mxPoint x="480" y="530" />
+              <mxPoint x="480" y="510" />
               <mxPoint x="850" y="510" />
               <mxPoint x="1220" y="510" />
               <mxPoint x="1220" y="179.33333333333331" />
@@ -173,7 +173,7 @@
           <mxGeometry x="703.5454705345248" y="574.2783895558861" width="211.8037389984051" height="21.6316104441139" as="geometry" />
         </mxCell>
         <mxCell id="67wakWPoND7Ayu36G2Oa-77" value="转录组学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="732.5664419595448" y="536.2108213982152" width="190.7139263526232" height="21.63231151721207" as="geometry" />
+          <mxGeometry x="732.4664419595448" y="520.0008213982152" width="190.7139263526232" height="21.63231151721207" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="67wakWPoND7Ayu36G2Oa-77" target="U3-DiGzachXiAywoB_Pa-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
