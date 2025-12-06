@@ -155,7 +155,7 @@
           <mxGeometry x="1087.86" y="380" width="85.32" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;体内&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="964.0110677939973" y="200" width="95.43059789691108" height="31.548289417764558" as="geometry" />
+          <mxGeometry x="980.9310677939973" y="198.64" width="95.43059789691108" height="31.548289417764558" as="geometry" />
         </mxCell>
         <mxCell id="U3-DiGzachXiAywoB_Pa-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-152" target="U3-DiGzachXiAywoB_Pa-154" edge="1">
           <mxGeometry relative="1" as="geometry" />
