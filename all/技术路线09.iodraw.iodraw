@@ -91,9 +91,6 @@
         <mxCell id="U3-DiGzachXiAywoB_Pa-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3周龄仔猪PRRSV滴鼻感染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="979.62" y="245.54" width="212.66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ikXE14nvDFp7r7v0YMWf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-170" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dU9fxduZAe1Sc0it9sx2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="U3-DiGzachXiAywoB_Pa-154" target="U3-DiGzachXiAywoB_Pa-169" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="360" as="targetPoint" />
