@@ -327,6 +327,9 @@
         <mxCell id="WKkt-wyt3XaldLga9ZRj-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;拌料给药14天&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="262.68" width="118.28" height="44.64" as="geometry" />
         </mxCell>
+        <mxCell id="hUO5yfLI9XJ3-7RpVuSg-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510.88" y="170" width="739.12" height="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
